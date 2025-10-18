@@ -9,7 +9,6 @@
 	<build>
 		<sourceDirectory>src</sourceDirectory>
 		<resources>
-	
 			<resource>
 				<directory>src</directory>
 				<excludes>
